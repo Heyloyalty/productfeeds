@@ -1,0 +1,52 @@
+{
+  "Ark1": [
+    {
+      "Produkt": "Dagsbillet",
+      "Beskrivelse": "Voksenbillet til hele parken",
+      "Pris ": "249",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F665605fa69c5b8bdd867ee5c4ebff666.png"
+    },
+    {
+      "Produkt": "Årskort",
+      "Beskrivelse": "Ubegrænset adgang til parken i et år",
+      "Pris ": "500",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F5bcc862f5c98f270b08afd239a911f9d.png "
+    },
+    {
+      "Produkt": "Fast-track armbånd",
+      "Beskrivelse": "Spring køerne over (ekskl. Billet)",
+      "Pris ": "129",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F334f493893374f91b3bcb82a9e00a3ee.png "
+    },
+    {
+      "Produkt": "Dagsbillet",
+      "Beskrivelse": "Børnebillet til hele parken",
+      "Pris ": "199",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fdb8510f2460ab8f80b4a7543277915b5.png "
+    },
+    {
+      "Produkt": "Måltidspakke",
+      "Beskrivelse": "Frokostmenu til én person",
+      "Pris ": "129",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fc227a74ecacb3712d2495c6c3ca085f7.png "
+    },
+    {
+      "Produkt": "Familiepakke",
+      "Beskrivelse": "Dagsbilletter til 2 voksne og 2 børn",
+      "Pris ": "799",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F089693a59bfd44c2e5979f146739f8d0.png "
+    },
+    {
+      "Produkt": "Børnefødselsdagspakke",
+      "Beskrivelse": "Hold fødseldag i parken med adang og frokostmenu til 12 personer",
+      "Pris ": "2999",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fa1b089caa3722ab8450f1a9f0ea48845.png "
+    },
+    {
+      "Produkt": "Turbånd",
+      "Beskrivelse": "Få ubegrænset adgang til forlystelser",
+      "Pris ": "149",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F4c03bfbb11a9cde5bc6584d4cf01e9c8.png "
+    }
+  ]
+}

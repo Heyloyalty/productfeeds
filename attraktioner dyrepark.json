@@ -1,0 +1,52 @@
+{
+  "Ark1": [
+    {
+      "Produkt": "Dagsbillet",
+      "Beskrivelse": "Voksenbillet med adgang til hele dyreparken",
+      "Pris ": "199",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F29d216a3c755ce6be8c50a8702e19bbe.png "
+    },
+    {
+      "Produkt": "Guidet tur",
+      "Beskrivelse": "En guidet tur med dyrepasser (ekskl. Billet)",
+      "Pris ": "50",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fa73975f4d6d8eba4278fc612fadbce01.png"
+    },
+    {
+      "Produkt": "Årskort",
+      "Beskrivelse": "Ubegrænset adgang i et år",
+      "Pris ": "499",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F280f14fc19dedacc342b86bb51da2be3.png"
+    },
+    {
+      "Produkt": "Zoo-nat event",
+      "Beskrivelse": "Overnatning i hytte inkl. morgenmad og aftensmad",
+      "Pris ": "2999",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Ff7da635d057865bc76e5a5ebfb889ec4.png"
+    },
+    {
+      "Produkt": "Fodring af dyr",
+      "Beskrivelse": "Mulighed for at fodre udvalgte dyr",
+      "Pris ": "99",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F4e9e25b12b897e74c0a0737c2d0b527e.png "
+    },
+    {
+      "Produkt": "Bag kulisserne tur",
+      "Beskrivelse": "Få eksklusiv adgang til udvalgte områder med dyrepasser",
+      "Pris ": "75",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F9196f55748da4e0829d72abd54730458.png"
+    },
+    {
+      "Produkt": "Safari",
+      "Beskrivelse": "Kør en safarityr gennem parken",
+      "Pris ": "129",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F1e410f223178a688b39f052f1408e9f7.png "
+    },
+    {
+      "Produkt": "Børnefødselsdag",
+      "Beskrivelse": "Hold fødseldag i parken med adang og guidet tur til 12 personer",
+      "Pris ": "2700",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F11674a94a7e9e8e8600ec3440ff8ade0.png"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Ark1": [
+    {
+      "Produkt": "Donation",
+      "Beskrivelse": "Enkeltdonation på 100 kr.",
+      "Pris": "100",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Ff563af061ec32a55188e169d6c75d3c8.png "
+    },
+    {
+      "Produkt": "Donation",
+      "Beskrivelse": "Enkeltdonation på 200 kr.",
+      "Pris": "200",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F47a9749f4397ca8730e4f3b35843d729.png "
+    },
+    {
+      "Produkt": "Donation",
+      "Beskrivelse": "Enkeltdonation på 300 kr.",
+      "Pris": "300",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F109dd68beb67a59c8d7ba9a46edc27a7.png "
+    },
+    {
+      "Produkt": "Merchandise",
+      "Beskrivelse": "Bamse",
+      "Pris": "79",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fc2b4e28d0e754ae69fc7bed9abbf0a2c.png "
+    },
+    {
+      "Produkt": "Merchandise",
+      "Beskrivelse": "Badge",
+      "Pris": "15",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F77e5a9b4314f35ff9774608504ce4b9b.png "
+    },
+    {
+      "Produkt": "Merchandise",
+      "Beskrivelse": "Armbånd",
+      "Pris": "15",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F63cb9fe1402d9884b0a4623714c2cce0.png "
+    },
+    {
+      "Produkt": "Billet",
+      "Beskrivelse": "Billet til vores årlige 5 km løb",
+      "Pris": "149",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F3650f3008e780f5bebdc8a949719aa46.png "
+    },
+    {
+      "Produkt": "Abonnement",
+      "Beskrivelse": "Fast støtte på 99 kr. om måneden",
+      "Pris": "99",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Ffee811391af46370486d80284f97c7ea.png "
+    }
+  ]
+}
