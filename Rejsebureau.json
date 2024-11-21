@@ -1,52 +1,52 @@
 {
   "Ark1": [
     {
-      "Produkt": "T-shirt",
-      "Beskrivelse": "Hvid loose fit t-shirt til de fleste lejligheder",
-      "Pris ": "299",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F78223e3d2b29a60d9371cf62a0b36526.png"
+      "Produkt ": "Flybillet + hotel",
+      "Beskrivelse": "Fly og overnatning (inkl. Morgenmad)",
+      "Pris ": "3999",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F15dffc0e4f69f30c7e26a7ae5b6f13e6.png"
     },
     {
-      "Produkt": "T-shirt",
-      "Beskrivelse": "Grå loose fit t-shirt til de fleste lejligheder",
-      "Pris ": "299",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F4147c82980e98ff9f91352004800a5e6.png"
+      "Produkt ": "Forsikring",
+      "Beskrivelse": "Bliv fuldt forsikret på rejsen (pris pr. dag)",
+      "Pris ": "79",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F53ad059bd805e45867d7479e1e26d023.png"
     },
     {
-      "Produkt": "Bukser",
-      "Beskrivelse": "Blå denimbukser i slimfit",
-      "Pris ": "499",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F396ff85ff9f209b679ddb556f9758297.png"
+      "Produkt ": "Krydstogt",
+      "Beskrivelse": "Krydstogtrejse i middelhavet",
+      "Pris ": "5999",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F59ec7d1040da3e4621c30d5722f5dd48.png"
     },
     {
-      "Produkt": "Hoodie",
-      "Beskrivelse": "Sort hoodie i bomuld",
-      "Pris ": "399",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F1546883af08d8f4a452e8b503a81dbc8.png"
+      "Produkt ": "Rundrejse",
+      "Beskrivelse": "Fly og overnatning (inkl. Morgenmad)",
+      "Pris ": "7999",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fe83ae7b29a97c718aa72a399602b007d.png"
     },
     {
-      "Produkt": "Hoodie",
-      "Beskrivelse": "Rød hoodie i bomuld",
-      "Pris ": "399",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F3aca784751d1714d11cd63e6703c138e.png"
+      "Produkt ": "Weekendophold",
+      "Beskrivelse": "Storbyferie i 3 dage (fly + hotel)",
+      "Pris ": "1199",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F2cb781f4635f5d4a2376790e6e1f1af4.png"
     },
     {
-      "Produkt": "Tennissokker",
-      "Beskrivelse": "Hvide tennissokker fra størrelse 36 til 46",
-      "Pris ": "99",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F17b528237ebb1176a3e4986cff7a28d9.png"
+      "Produkt ": "Grupperejse",
+      "Beskrivelse": "Grupperejse for 8 personer med guide (pris pr. person)",
+      "Pris ": "5499",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F52071f6798d225721e1d8bd769532357.png"
     },
     {
-      "Produkt": "Bukser",
-      "Beskrivelse": "Performance pants med stretch for maksimal komfort",
-      "Pris ": "599",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F3c13f879225ab77e947d38181d88de63.png"
+      "Produkt ": "Guide",
+      "Beskrivelse": "Lokal guide i 3 dage",
+      "Pris ": "1999",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F8831cf45ffa3ae689ee150fe99345b30.png"
     },
     {
-      "Produkt": "Underbukser",
-      "Beskrivelse": "3 par sprte boksershort",
-      "Pris ": "199",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F11d8f9b46fb5577ea996030f056fd09e.png"
+      "Produkt ": "Skileje",
+      "Beskrivelse": "Leje af ski inkl. Støvler i 7 dage",
+      "Pris ": "1499",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F2010b334fc2b806b3b96b79db350bc92.png "
     }
   ]
 }
