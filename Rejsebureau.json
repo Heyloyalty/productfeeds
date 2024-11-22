@@ -1,52 +1,52 @@
 {
   "Ark1": [
     {
-      "Produkt ": "Flybillet + hotel",
+      "Produkt": "Flybillet + hotel",
       "Beskrivelse": "Fly og overnatning (inkl. Morgenmad)",
-      "Pris ": "3999",
+      "Pris": "3999",
       "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F15dffc0e4f69f30c7e26a7ae5b6f13e6.png"
     },
     {
-      "Produkt ": "Forsikring",
+      "Produkt": "Forsikring",
       "Beskrivelse": "Bliv fuldt forsikret på rejsen (pris pr. dag)",
-      "Pris ": "79",
+      "Pris": "79",
       "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F53ad059bd805e45867d7479e1e26d023.png"
     },
     {
-      "Produkt ": "Krydstogt",
+      "Produkt": "Krydstogt",
       "Beskrivelse": "Krydstogtrejse i middelhavet",
-      "Pris ": "5999",
+      "Pris": "5999",
       "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F59ec7d1040da3e4621c30d5722f5dd48.png"
     },
     {
-      "Produkt ": "Rundrejse",
+      "Produkt": "Rundrejse",
       "Beskrivelse": "Fly og overnatning (inkl. Morgenmad)",
-      "Pris ": "7999",
+      "Pris": "7999",
       "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fe83ae7b29a97c718aa72a399602b007d.png"
     },
     {
-      "Produkt ": "Weekendophold",
+      "Produkt": "Weekendophold",
       "Beskrivelse": "Storbyferie i 3 dage (fly + hotel)",
-      "Pris ": "1199",
+      "Pris": "1199",
       "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F2cb781f4635f5d4a2376790e6e1f1af4.png"
     },
     {
-      "Produkt ": "Grupperejse",
+      "Produkt": "Grupperejse",
       "Beskrivelse": "Grupperejse for 8 personer med guide (pris pr. person)",
-      "Pris ": "5499",
+      "Pris": "5499",
       "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F52071f6798d225721e1d8bd769532357.png"
     },
     {
-      "Produkt ": "Guide",
+      "Produkt": "Guide",
       "Beskrivelse": "Lokal guide i 3 dage",
-      "Pris ": "1999",
+      "Pris": "1999",
       "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F8831cf45ffa3ae689ee150fe99345b30.png"
     },
     {
-      "Produkt ": "Skileje",
+      "Produkt": "Skileje",
       "Beskrivelse": "Leje af ski inkl. Støvler i 7 dage",
-      "Pris ": "1499",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F2010b334fc2b806b3b96b79db350bc92.png "
+      "Pris": "1499",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F2010b334fc2b806b3b96b79db350bc92.png"
     }
   ]
 }
