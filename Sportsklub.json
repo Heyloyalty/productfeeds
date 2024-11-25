@@ -1,52 +1,52 @@
 {
   "Ark1": [
     {
-      "Produkt": "Ansigtscreme",
-      "Beskrivelse": "Fugtgivende ansigtscreme",
+      "Produkt": "Billet",
+      "Beskrivelse": "Billet til hjemmekamp",
+      "Pris": "120",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F9d33983b6274b5215b92d54ec53cfeb2.png"
+    },
+    {
+      "Produkt": "Sæsonkort",
+      "Beskrivelse": "Adgang til alle hjemmekampe i sæsonen",
+      "Pris": "2500",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F1832a7ee7d08f1b10a2306fd50c3f3a6.png"
+    },
+    {
+      "Produkt": "Fodboldtrøje",
+      "Beskrivelse": "Kamptrøje for indeværende sæson",
+      "Pris": "599",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F71a1f76d5ba862393431a5a1cf8e0f67.png"
+    },
+    {
+      "Produkt": "VIP-kampbillet",
+      "Beskrivelse": "Få de bedste pladser og forplejning",
+      "Pris": "450",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fcd2b15b78fa59596224f789712d9965d.png"
+    },
+    {
+      "Produkt": "Halstørklæde",
+      "Beskrivelse": "Halsterklæde i bomuld",
       "Pris": "149",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fcf309e53aa8044efa01ca34acebb62aa.png"
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fd765d00bfe64f482ab72427d4391a0a2.png"
     },
     {
-      "Produkt": "Parfume",
-      "Beskrivelse": "30 ml parfume",
-      "Pris": "149",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fba107c7bdd81d48efefa27872fa38ad7.png"
+      "Produkt": "Hoodie",
+      "Beskrivelse": "Hoodie med logo (bomuld)",
+      "Pris": "249",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F490d6dc85a73b758c636f00f6c57af7a.png"
     },
     {
-      "Produkt": "Parfume",
-      "Beskrivelse": "60 ml parfume",
-      "Pris": "399",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fc931d6cacf0389193c72c7c4572dc1a4.png"
+      "Produkt": "Shorts",
+      "Beskrivelse": "Kampshorts",
+      "Pris": "199",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F1c2345134db3b1ecf64ec7b3e6b96486.png"
     },
     {
-      "Produkt": "Parfume",
-      "Beskrivelse": "100 ml parfume",
-      "Pris": "799",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F63de92d5e8e994275140e7255ba91175.png"
-    },
-    {
-      "Produkt": "Hårvoks",
-      "Beskrivelse": "60 ml, vaskes nemt ud",
-      "Pris": "99",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fcd4a4d74df031ab2313fba5925c934ca.png"
-    },
-    {
-      "Produkt": "Neglelak",
-      "Beskrivelse": "Rød neglelak",
-      "Pris": "129",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F083024eb5e7511b9779377a4bb01ed87.png"
-    },
-    {
-      "Produkt": "Neglelak",
-      "Beskrivelse": "Sort neglelak",
-      "Pris": "149",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F0291e798b0f69b61a3fba74289f4805d.png"
-    },
-    {
-      "Produkt": "Håndcreme",
-      "Beskrivelse": "Fugtgivende håndcreme uden parfume",
-      "Pris": "99",
-      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2F24271faeebde884dc77b33a3679d79c4.png"
+      "Produkt": "Billet udekamp",
+      "Beskrivelse": "Billet til udekamp",
+      "Pris": "120",
+      "url": "https://img.heyloyalty.com/heyloyalty1/filemanager%2F789bbd3eb51e7315cf9995306bb399f5%2Fe1cce3210d6371687087fee2d6e02565.png"
     }
   ]
 }
